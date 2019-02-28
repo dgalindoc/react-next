@@ -1,0 +1,1 @@
+{"version":3,"file":"static/chunks/2.js","sources":["webpack:///./components/ssr/hello.js"],"sourcesContent":["import React from 'react';\n\nvar Hello = <div>Hello </div>;\n"],"mappings":";;;;;;;;;;;;;;AAAA;AAEA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;;A","sourceRoot":""}
